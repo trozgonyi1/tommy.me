@@ -7,7 +7,7 @@ showtoc: true
 tags: ["AWS", "Python"]
 draft: false
 cover:
-    image: /posts/tech/digital-signatures/pictures/aws.png
+    image: /tommy.me/posts/tech/digital-signatures/pictures/aws.png
     alt: "pipeline diagram"
     caption: ""
 ---
