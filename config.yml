@@ -1,0 +1,83 @@
+baseURL: "https://tommy.me"
+languageCode: en-us
+title: tommy.me
+theme: PaperMod
+
+googleAnalytics: G-B1WJN3XS9J
+enableRobotsTXT: true
+enableInlineShortcodes: true
+enableEmoji: true
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    mainSections: posts
+    env: production
+    cover:
+        linkFullImages: true
+    title: tommy.me
+    author: Tommy Rozgonyi
+    DateFormat: "January 2, 2006"
+    defaultTheme: dark
+    ShowReadingTime: true
+    ShowShareButtons: false
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    disableSpecial1stPost: false
+    disableScrollToTop: false
+    comments: true
+    hidemeta: false
+    hideSummary: false
+    showtoc: false
+    tocopen: false
+    assets:
+        disableHLJS: true
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Welcome to my blog! \U0001F44B"
+        Content:
+            "My name is Tommy Rozgonyi, and I am a Sophomore at the [University of Notre Dame](https://www.nd.edu). This
+            is my personal site for me to post projects I'm working on, school updates, and anything else I think may be worth seeing!"
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/trozgonyi1"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/tommy-rozgonyi-aab01225a/"
+
+menu:
+    main:
+        - indentifier: about
+          name: about
+          url: /about/
+          weight: 5
+        - indentifier: projects
+          name: projects
+          url: /posts/projects/
+          weight: 6
+        - identifier: life
+          name: life
+          url: /posts/life/
+          weight: 10
+        - indentifier: tags
+          name: tags
+          url: /tags/
+          weight: 18
+        - indentifier: archive
+          name: archive
+          url: /archives/
+          weight: 20
+
+markup:
+    highlight:
+        #anchorLineNos: false
+        codeFences: true
+        guessSyntax: true
+        lineNos: false
+        #pygmentsUseClasses: true
+        #noClasses: true
+        style: monokai
