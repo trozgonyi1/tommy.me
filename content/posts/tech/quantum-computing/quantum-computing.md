@@ -8,7 +8,7 @@ showtoc: true
 tags: ["Quantum Computing", "Mathematics"]
 draft: false
 cover:
-    image: "/posts/tech/quantum-computing/pictures/quantumBooks.png"
+    image: /tommy.me/posts/tech/quantum-computing/pictures/quantumBooks.png
     alt: "Quantum books"
     caption: ""
 ---
