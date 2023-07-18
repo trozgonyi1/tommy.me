@@ -55,9 +55,9 @@ menu:
           name: about
           url: /about/
           weight: 5
-        - indentifier: projects
-          name: projects
-          url: /posts/projects/
+        - indentifier: tech
+          name: tech
+          url: /posts/tech/
           weight: 6
         - identifier: life
           name: life
