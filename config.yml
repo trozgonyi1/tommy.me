@@ -39,7 +39,7 @@ params:
 
     # home-info mode
     homeInfoParams:
-        Title: "Welcome to my blog! \U0001F44B"
+        Title: "Welcome to my blog! \U0001F973"
         Content:
             "My name is Tommy Rozgonyi, and I am a Sophomore at the [University of Notre Dame](https://www.nd.edu). This
             is my personal site for me to post projects I'm working on, school updates, and anything else I think may be worth seeing!"
