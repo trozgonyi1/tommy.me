@@ -36,7 +36,7 @@ learned from my Irish Poetry course. I am not an avid writer, and have certainly
 course, however, my professor was able to get me interested in the material enough to put forward maximal effort. He offered
 me a ton of help, always willing to sit down with me and help with my papers.
 
-{{< figure align="center" src="/irishPoetry.jpg" width="600" >}}
+![Irish Poetry](/tommy.me/irishPoetry.jpg)
 
 ---
 
@@ -60,7 +60,7 @@ It definantly challenged me, as it was my first proofs focused course. That bein
 forward to more courses like it. Discrete math was the perfect ballance between math and CS. I loved writing proofs that 
 were highly applicable to CS concepts. I'm super excited to be a TA for this course next semester.
 
-{{< figure align="center" src="/proofs.jpg" width="600" >}}
+![Proofs](/tommy.me/proofs.jpg)
 
 ---
 
