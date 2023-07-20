@@ -22,7 +22,7 @@ Looking back, I'm more than pleased with how it went. Between classes, friends, 
 
 ## Courses
 
-First semester I was taking mostly core requirements. I usually enjoy these less than my major courses, but I of course
+First semester I was taking mostly core requirements. I usually enjoy these less than my major courses, but of course I
 see the value in being a well rounded student.
 
 > - Calc 3 
