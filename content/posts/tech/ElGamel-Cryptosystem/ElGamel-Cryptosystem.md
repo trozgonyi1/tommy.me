@@ -12,7 +12,7 @@ cover:
     caption: ""
 ---
 
-To prepare for my research position studying lattice based cryptography, I have been reading through the textbook [An Introduction to Mathematical Cryptography](https://link.springer.com/book/10.1007/978-1-4939-1711-2). It begins by reviewing the foundations of early cryptosystems, like the Diffie-Hellmann key exchange, discete log problems and digital signatures. This book has a special focus on the underlying mathematics for each idea it presents, allowing the reading to gain true base level understanding of these ideas. This book is especially valueable as it has the most up to date information on coding theory, elliptic curves and lattice based cryptography.
+To prepare for my research position studying lattice based cryptography, I have been reading through the textbook [An Introduction to Mathematical Cryptography](https://link.springer.com/book/10.1007/978-1-4939-1711-2). It begins by reviewing the foundations of early cryptosystems, like the Diffie-Hellmann key exchange, discete log problems and digital signatures. This book has a special focus on the underlying mathematics for each idea it presents, allowing the reading to gain true base level understanding of these ideas. This book is especially valueable as it has the most up to date information on coding theory, elliptic curves and lattice based cryptography. To check out my code see the [github repo](https://github.com/trozgonyi1/ElGamel-Cryptosystem/tree/main)
 
 # My Goals
 
