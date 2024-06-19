@@ -67,7 +67,6 @@ were highly applicable to CS concepts. I'm super excited to be a TA for this cou
 `Next Semester Schedule`
 
 > - Differential Equations
-> - Algebraic Analysis
 > - Topics in Algebra 
 > - Logic Design & Sequential Circuts
 > - Data Structures

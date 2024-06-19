@@ -47,8 +47,6 @@ Spring semester I did a lot of math. A LOT of math. That being said, I really en
 > - Physics II: EM
 > - Introduction to Math Research
 
-![Proofs](/tommy.me/proofs.jpg)
-
 ---
 
 `Next Semester Schedule`

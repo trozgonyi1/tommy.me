@@ -7,7 +7,7 @@ summary: here is a little about myself
 hidemeta: true
 comments: false
 cover:
-    image: "/tommy.me/pictures/tommy.jpg"
+    image: tommy.jpg
     alt: Image Loading
 ---
 
