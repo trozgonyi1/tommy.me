@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tommy.me/tech/quantum-computing/</loc>
-    <lastmod>2023-01-18T16:16:02-04:00</lastmod>
+    <loc>http://localhost:1313/tommy.me/tags/c/</loc>
+    <lastmod>2024-06-19T10:00:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tommy.me/tags/cryptography/</loc>
+    <lastmod>2024-06-19T10:00:25-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tommy.me/posts/</loc>
+    <lastmod>2024-06-19T10:00:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tommy.me/tech/ElGamel-Cryptosystem/</loc>
+    <lastmod>2024-06-19T10:00:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tommy.me/tags/sockets/</loc>
+    <lastmod>2024-06-19T10:00:25-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tommy.me/tags/</loc>
     <lastmod>2024-06-19T10:00:25-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tommy.me/posts/tech/</loc>
@@ -26,10 +38,10 @@
     <loc>http://localhost:1313/tommy.me/tags/mathematics/</loc>
     <lastmod>2023-01-18T16:16:02-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/tags/quantum-computing/</loc>
+    <loc>http://localhost:1313/tommy.me/tech/quantum-computing/</loc>
     <lastmod>2023-01-18T16:16:02-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/tags/</loc>
+    <loc>http://localhost:1313/tommy.me/tags/quantum-computing/</loc>
     <lastmod>2023-01-18T16:16:02-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tommy.me/tags/aws/</loc>
