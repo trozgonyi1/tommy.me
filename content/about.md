@@ -7,7 +7,7 @@ summary: here is a little about myself
 hidemeta: true
 comments: false
 cover:
-    image: "./tommy.jpg"
+    image: "/tommy.me/pictures/tommy.jpg"
     alt: Image Loading
 ---
 
@@ -29,7 +29,7 @@ class Tommy():
     self.interests = ["Hiking", "Fishing", "Woodworking", "Lord of the Rings"]
 ```
 
-This semester I'm looking forward to being a teaching assistant for the *Discrete Math* course. I've always wanted to spend some time teaching when I'm older, so this could be a nice introduction to that. Additionally, I'm excited to be involved with a research team studying *homomorphic encryption* and creating practical implimentations of it.
+This year I'm looking forward to being studying abroad at the *Budapest Semester In Mathematics* program. For one, I am Hungarian on both sides of my family, so I am excited to learn the language and culture. Second, the professors who will be teaching me are some of the best (a few have even written the textbooks that I've used for past subjects), and I expect to learn a ton. Additionally, I'm excited to be involved with a research team studying *homomorphic encryption* and creating practical implimentations of it.
 
 Some things I'm currently interested in:
 > - Quantum Computing
