@@ -2,7 +2,7 @@
 title: Secure Communication Over Insecure Channels (ElGamel Cryptosystem)
 date: 2024-06-19T10:00:25-04:00
 summary: "Building the ElGamel cryptosystem in a C server"
-url: "/posts/projects/ElGamel-Cryptosystem.md/"
+url: "/posts/tech/ElGamel-Cryptosystem/"
 showtoc: true
 tags: ["Cryptography", "C", "Sockets"]
 draft: false
