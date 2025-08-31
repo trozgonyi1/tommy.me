@@ -2,52 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>tommy.me</title>
-    <link>http://localhost:1313/tommy.me/</link>
+    <link>https://trozgonyi1.github.io/tommy.me/</link>
     <description>Recent content on tommy.me</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jun 2024 10:00:25 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tommy.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Aug 2025 10:00:25 -0400</lastBuildDate>
+    <atom:link href="https://trozgonyi1.github.io/tommy.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hackers in the bazaar</title>
+      <link>https://trozgonyi1.github.io/tommy.me/tech/Hackers-in-the-bazaar/</link>
+      <pubDate>Sun, 31 Aug 2025 10:00:25 -0400</pubDate>
+      <guid>https://trozgonyi1.github.io/tommy.me/tech/Hackers-in-the-bazaar/</guid>
+      <description>Reflections for course readings</description>
+    </item>
     <item>
       <title>Secure Communication Over Insecure Channels (ElGamel Cryptosystem)</title>
-      <link>http://localhost:1313/tommy.me/tech/ElGamel-Cryptosystem/</link>
+      <link>https://trozgonyi1.github.io/tommy.me/tech/ElGamel-Cryptosystem/</link>
       <pubDate>Wed, 19 Jun 2024 10:00:25 -0400</pubDate>
-      <guid>http://localhost:1313/tommy.me/tech/ElGamel-Cryptosystem/</guid>
+      <guid>https://trozgonyi1.github.io/tommy.me/tech/ElGamel-Cryptosystem/</guid>
       <description>Building the ElGamel cryptosystem in a C server</description>
     </item>
     <item>
       <title>Sophomore Year Retrospective</title>
-      <link>http://localhost:1313/tommy.me/life/sophomore-year/</link>
+      <link>https://trozgonyi1.github.io/tommy.me/life/sophomore-year/</link>
       <pubDate>Wed, 29 May 2024 16:16:02 -0400</pubDate>
-      <guid>http://localhost:1313/tommy.me/life/sophomore-year/</guid>
+      <guid>https://trozgonyi1.github.io/tommy.me/life/sophomore-year/</guid>
       <description>Year in review</description>
     </item>
     <item>
       <title>Freshman Year Retrospective</title>
-      <link>http://localhost:1313/tommy.me/life/freshman-year/</link>
+      <link>https://trozgonyi1.github.io/tommy.me/life/freshman-year/</link>
       <pubDate>Fri, 05 May 2023 16:16:02 -0400</pubDate>
-      <guid>http://localhost:1313/tommy.me/life/freshman-year/</guid>
+      <guid>https://trozgonyi1.github.io/tommy.me/life/freshman-year/</guid>
       <description>Year in review</description>
     </item>
     <item>
       <title>Quantum - My latest obsession</title>
-      <link>http://localhost:1313/tommy.me/tech/quantum-computing/</link>
+      <link>https://trozgonyi1.github.io/tommy.me/tech/quantum-computing/</link>
       <pubDate>Wed, 18 Jan 2023 16:16:02 -0400</pubDate>
-      <guid>http://localhost:1313/tommy.me/tech/quantum-computing/</guid>
+      <guid>https://trozgonyi1.github.io/tommy.me/tech/quantum-computing/</guid>
       <description>My ongoing deep-dive into quantum computing</description>
     </item>
     <item>
       <title>How I created an AWS pipeline to generate and attach digital signatures to medical documents</title>
-      <link>http://localhost:1313/tommy.me/posts/projects/digital-signatures.md/</link>
+      <link>https://trozgonyi1.github.io/tommy.me/posts/projects/digital-signatures.md/</link>
       <pubDate>Sat, 06 Aug 2022 10:00:25 -0400</pubDate>
-      <guid>http://localhost:1313/tommy.me/posts/projects/digital-signatures.md/</guid>
+      <guid>https://trozgonyi1.github.io/tommy.me/posts/projects/digital-signatures.md/</guid>
       <description>Digitally signing documents with an AWS pipeline</description>
     </item>
     <item>
       <title>about me</title>
-      <link>http://localhost:1313/tommy.me/about/</link>
+      <link>https://trozgonyi1.github.io/tommy.me/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tommy.me/about/</guid>
+      <guid>https://trozgonyi1.github.io/tommy.me/about/</guid>
       <description>here is a little about myself</description>
     </item>
   </channel>

@@ -2,61 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tommy.me/tags/c/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/tags/hackers/</loc>
+    <lastmod>2025-08-31T10:00:25-04:00</lastmod>
+  </url><url>
+    <loc>https://trozgonyi1.github.io/tommy.me/tech/Hackers-in-the-bazaar/</loc>
+    <lastmod>2025-08-31T10:00:25-04:00</lastmod>
+  </url><url>
+    <loc>https://trozgonyi1.github.io/tommy.me/posts/</loc>
+    <lastmod>2025-08-31T10:00:25-04:00</lastmod>
+  </url><url>
+    <loc>https://trozgonyi1.github.io/tommy.me/tags/</loc>
+    <lastmod>2025-08-31T10:00:25-04:00</lastmod>
+  </url><url>
+    <loc>https://trozgonyi1.github.io/tommy.me/posts/tech/</loc>
+    <lastmod>2025-08-31T10:00:25-04:00</lastmod>
+  </url><url>
+    <loc>https://trozgonyi1.github.io/tommy.me/</loc>
+    <lastmod>2025-08-31T10:00:25-04:00</lastmod>
+  </url><url>
+    <loc>https://trozgonyi1.github.io/tommy.me/tags/c/</loc>
     <lastmod>2024-06-19T10:00:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/tags/cryptography/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/tags/cryptography/</loc>
     <lastmod>2024-06-19T10:00:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/posts/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/tech/ElGamel-Cryptosystem/</loc>
     <lastmod>2024-06-19T10:00:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/tech/ElGamel-Cryptosystem/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/tags/sockets/</loc>
     <lastmod>2024-06-19T10:00:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/tags/sockets/</loc>
-    <lastmod>2024-06-19T10:00:25-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tommy.me/tags/</loc>
-    <lastmod>2024-06-19T10:00:25-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tommy.me/posts/tech/</loc>
-    <lastmod>2024-06-19T10:00:25-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tommy.me/</loc>
-    <lastmod>2024-06-19T10:00:25-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tommy.me/posts/life/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/posts/life/</loc>
     <lastmod>2024-05-29T16:16:02-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/life/sophomore-year/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/life/sophomore-year/</loc>
     <lastmod>2024-05-29T16:16:02-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/life/freshman-year/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/life/freshman-year/</loc>
     <lastmod>2023-05-05T16:16:02-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/tags/mathematics/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/tags/mathematics/</loc>
     <lastmod>2023-01-18T16:16:02-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/tech/quantum-computing/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/tech/quantum-computing/</loc>
     <lastmod>2023-01-18T16:16:02-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/tags/quantum-computing/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/tags/quantum-computing/</loc>
     <lastmod>2023-01-18T16:16:02-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/tags/aws/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/tags/aws/</loc>
     <lastmod>2022-08-06T10:00:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/posts/projects/digital-signatures.md/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/posts/projects/digital-signatures.md/</loc>
     <lastmod>2022-08-06T10:00:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/tags/python/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/tags/python/</loc>
     <lastmod>2022-08-06T10:00:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/about/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/archives/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/tommy.me/categories/</loc>
+    <loc>https://trozgonyi1.github.io/tommy.me/categories/</loc>
   </url>
 </urlset>

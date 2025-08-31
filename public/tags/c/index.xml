@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>C on tommy.me</title>
-    <link>http://localhost:1313/tommy.me/tags/c/</link>
+    <link>https://trozgonyi1.github.io/tommy.me/tags/c/</link>
     <description>Recent content in C on tommy.me</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Jun 2024 10:00:25 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tommy.me/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trozgonyi1.github.io/tommy.me/tags/c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Secure Communication Over Insecure Channels (ElGamel Cryptosystem)</title>
-      <link>http://localhost:1313/tommy.me/tech/ElGamel-Cryptosystem/</link>
+      <link>https://trozgonyi1.github.io/tommy.me/tech/ElGamel-Cryptosystem/</link>
       <pubDate>Wed, 19 Jun 2024 10:00:25 -0400</pubDate>
-      <guid>http://localhost:1313/tommy.me/tech/ElGamel-Cryptosystem/</guid>
+      <guid>https://trozgonyi1.github.io/tommy.me/tech/ElGamel-Cryptosystem/</guid>
       <description>Building the ElGamel cryptosystem in a C server</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AWS on tommy.me</title>
-    <link>http://localhost:1313/tommy.me/tags/aws/</link>
+    <link>https://trozgonyi1.github.io/tommy.me/tags/aws/</link>
     <description>Recent content in AWS on tommy.me</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Aug 2022 10:00:25 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tommy.me/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://trozgonyi1.github.io/tommy.me/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I created an AWS pipeline to generate and attach digital signatures to medical documents</title>
-      <link>http://localhost:1313/tommy.me/posts/projects/digital-signatures.md/</link>
+      <link>https://trozgonyi1.github.io/tommy.me/posts/projects/digital-signatures.md/</link>
       <pubDate>Sat, 06 Aug 2022 10:00:25 -0400</pubDate>
-      <guid>http://localhost:1313/tommy.me/posts/projects/digital-signatures.md/</guid>
+      <guid>https://trozgonyi1.github.io/tommy.me/posts/projects/digital-signatures.md/</guid>
       <description>Digitally signing documents with an AWS pipeline</description>
     </item>
   </channel>
