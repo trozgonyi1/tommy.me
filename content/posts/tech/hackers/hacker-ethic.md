@@ -35,3 +35,53 @@ The new culture in tech isn’t all bad. It has led to a much more welcoming env
 I think this 1950s idea of the “true hacker” is an excellent guideline of how passionate we should be for something if we really care about understanding it fully. Rather than focusing on how we can use LLMs to extract the maximum value out of the job market or put together a startup with enough buzzwords to get into YC, a return to Levy’s hacker ideology would reignite a passion in the tech world that has somewhat diminished.
 
 ---
+
+## Reflection 2: Hardware Hackers
+
+At the heart of hacking there are a few certain qualities that are necessary to be a skilled, effective hacker;
+
+tech curiosity and being comfortable engaging with things they don’t (yet) understand. The “True Hackers” and “Hardware Hackers” both showed these qualities.
+
+They were happy to dive into complex systems that seemed intimidating and demystify it through the “hands-on imperative”.
+
+Where they differ is in what they believe technology should be used for and who the right people to use it were. The true hackers had a
+
+bit of an elite-ism view to their work. While it is true they were accepting to any hackers, they looked down on those they didn’t consider to be hackers.
+
+This grew tensions between them and the “Hardware Hackers” who wanted to bring computers to the general person. This mentality still persists today to some extent.
+
+People in tech (and STEM fields in general) tend to have a superiority complex and view themselves as smarter than other fields. I think most ND CS majors,
+
+including myself, have made fun of Mendoza majors in playful conversation. Part of the hacker culture is one of pride, which can be good when it is used as
+
+motivation for projects, but can be harmful when egos get too inflated.
+
+---
+
+Building and selling personal computers was a huge step in breaking down the elitist mentality amongst hackers. By giving regular people access to this equipment,
+
+they pushed the hacker ethic farther than the “true hackers” were willing to take it. We see now, ~50 years later, CS classes are filled
+
+with more “Mendoza type” students than ever before. People who might not have been drawn to CS if it kept the culture, it once had.
+
+Financial motives have also been a big driver of this and a large source of tension. On one hand, commercialization made computers more widely available.
+
+On the other hand, it introduced values that clashed with openness and sharing such as, secrecy, and competition. We have certainly seen some
+
+dangerous effects of this such as predatory tactics in social media to keep us addicted to our phones, and Orwellian data surveillance on a global scale,
+
+but we have also seen an historic rise in the ability to connect with others, help the less fortunate, and a general improvement in the base quality of life.
+
+I think it is very interesting to examine the political background in cases like Lee Felsenstein and how that may have influenced his view of the hacker ethic.
+
+We see all over the world technology being used as a tool for liberation like Lee hoped it would be, with projects that give access to literature that is
+
+banned in certain countries, or free classes to people who otherwise would not be able to access them. Unfortunately, with this comes cases like the CCP,
+
+where citizens are watched constantly and their freedoms have been largely stripped away. Like any other tool, it comes down to how the user choses to act.
+
+Ultimately, I believe in Lee’s view of technology as a tool for liberation more so than Efrem Lipkin’s view of it as a tool for oppression.
+
+While it hasn’t all been good, the general quality of life for the average human has improved, I believe in part to technology brought about by the hacker ethic.
+
+---
