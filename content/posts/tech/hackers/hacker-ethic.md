@@ -16,7 +16,8 @@ cover:
 # Hackers in the bazaar
 
 This are my reflections for the ND computer science elective "Hackers in the bazaar", taught by Prof. Bui.
-The first book we are reading is "Hackers: Heroes of the Computer Revolution", by Steven Levy.
+The first book we are reading is "Hackers: Heroes of the Computer Revolution", by Steven Levy. This covers the content of the first 3 readings. Second, we are reading
+Paul Graham's essays from "Hackers and Painters".
 
 ## Reflection 1: True Hackers
 
